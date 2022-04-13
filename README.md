@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning C#, ASP.NET, Entity Framework
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 📫 Reach me at https://www.linkedin.com/in/szymon-styrna-12b65422b/
 <!---
 Shaymoun/Shaymoun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
