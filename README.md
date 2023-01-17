@@ -8,6 +8,3 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaymoun&show_icons=true&locale=en&layout=compact" alt="Shaymoun" />
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Shaymoun&show_icons=true&locale=en" alt="Shaymoun" />
-</p>
